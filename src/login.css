@@ -1,0 +1,11 @@
+.flex {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 400px;
+}
+
+.parent {
+  text-align: center;
+  margin-top: 50px;
+}

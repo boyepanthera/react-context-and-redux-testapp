@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+form {
+  width: 30%;
+  padding: 20px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+}
+
+select {
+  display: block;
+  padding: 5px;
+}
+
+div {
+  margin: 40px 1px;
+}
+
+button {
+  border-radius: 5px;
+  padding: 5px;
+  text-align: center;
+}
+#flex {
+  margin: 0;
+  padding: 0;
+  background-color: aqua;
+  display: flex;
+  justify-content: space-between;
+}
